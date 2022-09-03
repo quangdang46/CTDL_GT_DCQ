@@ -1,0 +1,2 @@
+Định nghĩa lớp SortedLinkedList để lưu trữ danh sách liên kết có thứ tự, Node chỉ cần định nghĩa để chứa Integer. Các phương thức cần định nghĩa bao gồm phương thức add(Integer item) và remove(Integer item).
+Sinh viên nộp lại code bao gồm các file Node.java, SortedLinkedList.java và Test.java. Các file này đặt trong thư mục MSSV_HoTen và nén lại dưới dạng .zip sau đó nộp lại.Bài làm cá nhân, hoàn tất trước deadline của bài tập.
